@@ -1,13 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import SpacingGrid from './cardGrid';
+import CardGrid from './cardGrid';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <SpacingGrid></SpacingGrid>
+        <CardGrid></CardGrid>
         </header>
     </div>
   );

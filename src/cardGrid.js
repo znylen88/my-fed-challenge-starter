@@ -1,6 +1,5 @@
 import React from 'react';
 import Grid from '@material-ui/core/Grid';
-// import ExerciseCard from './cards';
 import Container from '@material-ui/core/Container';
 import LakeCard from './card-components/lake';
 import PerformanceCard from './card-components/performanceSeries';

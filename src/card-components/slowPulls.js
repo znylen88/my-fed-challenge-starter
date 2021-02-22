@@ -6,7 +6,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import SlowPullsJPG from '../images/slow-pulls-thumb.jpg';
-import SlowPullsThumb from '../images/slow-pulls-trainer.jpg'
+import SlowPullsThumb from '../images/slow-pulls-trainer.jpg';
 import Grid from '@material-ui/core/Grid';
 import TimerIcon from '@material-ui/icons/Timer';
 import InsertLinkIcon from '@material-ui/icons/InsertLink';

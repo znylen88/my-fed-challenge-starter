@@ -6,7 +6,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import Toned20JPG from '../images/20-minutes-to-toned-thumb.jpg';
-import Toned20Thumb from '../images/20-minutes-to-toned-trainer (2).jpg'
+import Toned20Thumb from '../images/20-minutes-to-toned-trainer (2).jpg';
 import Grid from '@material-ui/core/Grid';
 
 const useStyles = makeStyles({

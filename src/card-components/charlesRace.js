@@ -6,7 +6,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import CharlesRaceJPG from '../images/charles-race-thumb.jpg';
-import CharlesRaceThumb from '../images/charles-race-trainer.jpg'
+import CharlesRaceThumb from '../images/charles-race-trainer.jpg';
 import Grid from '@material-ui/core/Grid';
 import TimerIcon from '@material-ui/icons/Timer';
 import InsertLinkIcon from '@material-ui/icons/InsertLink';
